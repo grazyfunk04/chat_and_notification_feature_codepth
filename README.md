@@ -1,1 +1,1 @@
-Creating Chat Application Using React.js and Firebase
+ Chat Application Using React.js and Firebase
